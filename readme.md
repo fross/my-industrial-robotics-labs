@@ -38,7 +38,7 @@ procedure    | `p`               | `PROC pDoSomething(...)`
 trap         | `t`               | `TRAP tSomethingHappened`
 
 ### Constants and variables
-Constant / Variable  | RAPID Types                          | Identifier prefix | Example
+Constant / Variable  | RAPID types                          | Identifier prefix | Example
 :------------------- | :----------------------------------- | :---------------: | :------
 boolean              | `bool`                               | `b`               | `bool bDisassemble`
 interrupt identity   | `intnum`                             | `i`               | `intnum iButtonPressed`
