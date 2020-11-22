@@ -7,7 +7,7 @@ At the moment of this writing, I'm a Software Technology Manager at [Cogiscan](h
 ## Labs
 Labs [#1](lab_1_stencil.mod), [#4](lab_4_leapfrog.mod), and [#5](lab_5_the_wall.mod) were simulations using RobotStudio from ABB.
 
-Labs [#2](lab_2_tracing.mod), [#3](lab_3_weight.mod), [#6](lab_6_commissioning_the_irc5.mod), [#7](lab_7_io.mod), [#8](lab_8_zones_and_interrupts.mod), and [final exam](final_exam.mod) were developed using the IRB 140 6-axis industrial robot ([external link](https://new.abb.com/products/robotics/industrial-robots/irb-140))
+Labs [#2](lab_2_tracing.mod), [#3](lab_3_weight.mod), [#6](lab_6_commissioning_the_irc5.mod), [#7](lab_7_io.mod), [#8](lab_8_zones_and_interrupts.mod), and [final exam](final_exam.mod) were developed using the IRB 140 6-axis industrial robot ([external link](https://new.abb.com/products/robotics/industrial-robots/irb-140)).
 
 Most labs were created from scratch, and had to be completed during a 3-hour window.
 
